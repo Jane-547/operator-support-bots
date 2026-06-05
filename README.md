@@ -10,6 +10,17 @@
 | 🤖 Бот регламента | Ответы на рабочие вопросы по базе знаний | [@Reglament547Bot](https://t.me/Reglament547Bot) |
 | 💬 Бот ответов клиентам | Генерация готовых ответов для операторов | [@ResponseGeneratorBot](https://t.me/ResponseGeneratorBot) |
 
+## Скриншоты
+
+**Обучающий сайт**
+![Обучающий сайт](images/site.png)
+
+**Бот регламента — @Reglament547Bot**
+![Бот регламента](images/regulation-bot.png)
+
+**Бот ответов клиентам — @ResponseGeneratorBot**
+![Бот ответов клиентам](images/response-generator-bot.png)
+
 ---
 
 ## Как пользоваться ботами
