@@ -1,0 +1,29 @@
+# Secrets
+.env
+
+# Site lives in its own repo (call-training)
+card/
+
+# Working artifacts
+reports/
+posts/
+tmp/
+
+# Claude Code internal config
+.claude/
+.playwright-mcp/
+
+# Site generator (output goes to card/site which is separate)
+scripts/generate_site.py
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db

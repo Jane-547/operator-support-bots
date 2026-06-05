@@ -1,0 +1,13 @@
+app = "kb-assistant-bot"
+primary_region = "ams"
+
+[build]
+
+[[vm]]
+  memory = "256mb"
+  cpu_kind = "shared"
+  cpus = 1
+
+[[mounts]]
+  source = "reports_data"
+  destination = "/app/reports"
