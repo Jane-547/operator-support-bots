@@ -9,8 +9,12 @@ reports/
 posts/
 tmp/
 
-# Claude Code internal config
-.claude/
+# Claude Code internal config — приватное
+.claude/*
+!.claude/skills/
+.claude/skills/*
+!.claude/skills/project-setup/
+!.claude/skills/project-setup/**
 .playwright-mcp/
 
 # Site generator (output goes to card/site which is separate)
